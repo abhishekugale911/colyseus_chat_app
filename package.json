@@ -1,0 +1,18 @@
+{
+  "name": "colysfinal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@colyseus/monitor": "^0.14.20",
+    "colyseus": "^0.14.20",
+    "colyseus.js": "^0.14.13",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
